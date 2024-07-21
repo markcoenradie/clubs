@@ -66,6 +66,7 @@ Sabail
 Sumqayıt FK
   | Sumqayıt
 Sabah
+  | Sabah Masazir
 
 
 # note - Not to be confused with FC Turan
