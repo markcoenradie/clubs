@@ -49,8 +49,9 @@ FC Sioni Bolnisi
   | Sioni
   | Sioni Bolnisi    # champs (1): 2006/07
 
-FC Saburtalo
-  | Saburtalo
+FC Iberia 1999
+  | FC Iberia
+  | Saburtalo | FC Saburtalo
 
 FC Kolkheti Poti, 1913,  Poti
   | FC Kolkheti-1913 Poti
