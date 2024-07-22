@@ -62,14 +62,14 @@ Dunaújváros FC (1952-2009),  Dunaújváros
 
 
 
-Videoton FC
-  | Videoton      # champs (2): 2015/16 2011/12
-  | Videoton Fehérvár
+Fehérvár FC
   | Fehérvár | Fehérvár FC
+  | Fehervar FC Szekesfehervar
+  | Videoton | Videoton FC     # champs (2): 2015/16 2011/12
+  | Videoton Fehérvár
   | Vidi | MOL Vidi 
   | MOL Fehérvár | MOL Fehérvár FC
   | MOL Fehérvár Football Club
-## check today's name - videoton?
 
 
 Debreceni VSC, 1902, @ Nagyerdei Stadion
