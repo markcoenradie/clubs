@@ -50,3 +50,5 @@ FK Palanga
 
 FK Mažeikiai,   Mažeikiai
 
+FK TransINVEST, 2021, Galinė
+  | Futbolo Klubas TransINVEST
