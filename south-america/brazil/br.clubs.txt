@@ -276,6 +276,7 @@ Clube do Remo,  1905,  Belém
 == Alagoas ==
 CRB AL,    Maceió
   | CRB | CR Brasil AL | Clube de Regatas Brasil
+  | CRB Maceio AL
 CS Alagoano,  1913,   Maceió
   | CSA | CSA AL | CS Alagoano AL | Centro Sportivo Alagoano
 
