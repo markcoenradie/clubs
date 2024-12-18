@@ -436,4 +436,6 @@ Paganese Calcio, Pagani
 Vibonese Calcio, Vibo Valentia
   | Vibonese | US Vibonese Calcio | Unione Sportiva Vibonese Calcio
 
-
+Cesena FC, Cesena
+  | AC Cesena
+# note: successor to AC Cesena (1940-2018)
