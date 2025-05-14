@@ -75,3 +75,6 @@ General Caballero (JLM),   Juan León Mallorquín
   | Club Atlético 3 de Febrero
   | CA 3 de Febrero
   | Atlético 3 de Febrero
+
+Club Cienciano,  Cusco
+  | Club Sportivo Cienciano
