@@ -5,7 +5,7 @@ Vålerenga Fotball,   1913, @ Intility Arena,   Oslo
   | Vålerenga | Vålerenga IF
   | Vålerengen IF
 KFUM-Kameratene Oslo,  1939, @ KFUM Oslo,  Oslo
-  | KFUM Oslo
+  | KFUM | KFUM Oslo
 Skeid Fotball,  Oslo
   | Skeid | Skeid FK
   | Skeid Oslo    # champs (1): 1967/68
@@ -21,12 +21,14 @@ Frigg Oslo FK,  1904, Oslo (Majorstua)
 
 Rosenborg BK,  1917, @ Lerkendal Stadion,  Trondheim
   | Rosenborg | Rosenborg Ballklub
+  | Rosenborg Trondheim
+
 Ranheim,       Trondheim
   | Ranheim Fotball | Ranheim IL
 
 Moss FK,   Moss
   | Moss Fotballklubb    # champs (1): 1988/89
-
+  | Moss
 
 Molde FK,   1911, @ Aker Stadion,     Molde
   | Molde
@@ -41,7 +43,7 @@ SK Brann,   1908, @ Brann Stadion,    Bergen
   | Sportsklubben Brann
 
 Strømsgodset IF,  1907, @ Marienlyst Stadion,  Drammen
-  | Strømsgodset 
+  | Strømsgodset
   | Strømsgodset Idrettsforening
   | Strømsgodset Toppfotball
 Fredrikstad FK,   1903, @ Fredrikstad Stadion,   Fredrikstad
@@ -82,7 +84,7 @@ Bodø/Glimt,  1916, @ Aspmyra Stadion,  Bodø
 
 FK Haugesund, 1993, @ Haugesund Stadion,  Haugesund
   | Haugesund | Fotballklubben Haugesund
-  
+
 
 SK Haugar,  1939,  Haugesund
   | Haugur Haugesund
@@ -106,6 +108,7 @@ IL Hødd, 1919,  Ulsteinvik
 Hamarkameratene,  1918, @ Briskeby Arena,  Hamar
   | HamKam | Ham-Kam
   | Hamarkameratene Fotball
+  | HamKam Fotball
 
 
 Kongsvinger IL,  1892,    Kongsvinger
@@ -128,6 +131,7 @@ Tromsdalen UIL,  Tromsdalen
 
 Bryne FK,  1926,   Bryne
    | Bryne Fotballklubb
+   | Bryne
 
 Egersunds IK, Egersund
   | Egersund
@@ -146,6 +150,6 @@ Egersunds IK, Egersund
 ##  => no need to duplicate!!!
 ##      remove (do NOT add) german variants
 ##   more (former) examples:
-##   -   Mjöndalen      
-##   -   Bodö Glimt  
-##   -   Strömmen IF 
+##   -   Mjöndalen
+##   -   Bodö Glimt
+##   -   Strömmen IF

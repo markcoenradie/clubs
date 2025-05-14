@@ -38,8 +38,16 @@ Deportivo Lara,        Barquisimeto
 Deportivo Anzoátegui,  Puerto La Cruz
   | Dvo. Anzoátegui | Deportivo Anzoátegui Sport Club
 
-AC Mineros,            Ciudad Guayana
+AC Mineros,            Ciudad Guayana (Puerto Ordaz)
   | Mineros | Mineros Guayana | Mineros de Guayana
+  | Asociación Civil Club Deportivo Mineros de Guayana
+  | ACCD Mineros de Guayana
+  | Min. Guayana
+## dividing Ciudad Guayana into its predominant halves -
+## the old town of San Félix, to the east,
+## and the newer area of Puerto Ordaz, to the west.
+
+
 LALA FC,               Ciudad Guayana
   | LALA
 
@@ -48,8 +56,8 @@ Atlético El Vigía,     El Vigía
 
 
 # note - Llaneros FC   name in use by club in Colombia!!!
-Llaneros Guanare,     Guanare    
-  | Llaneros FC           
+Llaneros Guanare,     Guanare
+  | Llaneros FC
   | Llaneros | Llaneros de Guanare
   | Llaneros Escuela de Fútbol
 
@@ -68,6 +76,7 @@ Carabobo FC,           Valencia
 Trujillanos FC,        Valera
   | Trujillanos
 Academia Puerto Cabello,   Puerto Cabello
+  | A. Pu. Cabello
 Monagas Sport Club,  Maturín
   | Monagas | Monagas SC
 Portuguesa FC,       Acarigua
@@ -77,4 +86,3 @@ Rayo Zuliano,  Maracaibo
   | Deportivo Rayo Zuliano
   | Departivo Rayo
 
-  

@@ -16,7 +16,7 @@ Llanelli AFC, 1896,  Llanelli
 Cefn Druids AFC
   | Cefn Druids | NEWI Cefn Druids    ## NEWI = North East Wales Institute of Higher Education
 Neath FC
-  |  Neath Athletic
+  | Neath |  Neath Athletic
 
 Port Talbot Town FC
   | Port Talbot
@@ -31,6 +31,7 @@ Bala Town FC
 Llandudno FC, 1988,    Llandudno
   | Llandudno Town FC
   | Llandudno Town
+  | Llandudno
 
 Newtown AFC
   | Newtown
@@ -46,23 +47,27 @@ Barry Town AFC
   | FC Barry Town
   | Barry Town    # champs (6): 2004...2001 (3) 2000...1997 (3)
   | Barry Town United | Barry Town United FC
+  | Barry Town United AFC
 
 Cardiff Metropolitan University FC
   | Cardiff Met | Cardiff M.U. | Cardiff Met Uni.
   | Cardiff Metropolitan
   | Cardiff Met University
+  | Cardiff Met FC
+
 Caernarfon Town FC
   | Caernarfon | Caernarfon Town
 Carmarthen Town AFC
   | Carmarthen
-Penybont FC
 
+Penybont FC
+  | Penybont
 
 # note: welsh clubs playing in english premiere league or championship etc. listed here
 # note: teams in english premier league & english league (championship, etc.) !!!!
 
 Swansea City AFC, 1912,     @ Liberty Stadium, Swansea
-  | Swansea | Swansea City | Swansea City FC 
+  | Swansea | Swansea City | Swansea City FC
   | Swansea City Association Football Club
 
 Cardiff City FC, 1899,   @ Cardiff City Stadium, Cardiff
@@ -91,14 +96,17 @@ Rhyl FC,  Rhyl    # in Denbighshire
 Cwmbrân Town AFC,    Cwmbrân
   | Cwmbrân Town    # champs (1): 1993/94
   | Cwmbrân Town FC
+  | Cwmbrân
 
 Prestatyn Town FC,  1910,  Prestatyn
+  | Prestatyn
 
 Afan Lido FC, 1967,   Port Talbot
   | Afan Lido
 
 Haverfordwest County AFC, 1899,  Haverfordwest
   | Haverfordwest County
+  | Haverfordwest
 
 Porthmadog FC,   Porthmadog
   | Porthmadog
@@ -110,3 +118,10 @@ Welshpool Town FC,  Welshpool
 
 Caersws FC,  Caersws
   |  Caersws
+
+Flint Town United FC,  Flint
+  | Flint Town United
+
+Briton Ferry Llansawel AFC,  Briton Ferry
+  | Briton Ferry Llansawel
+

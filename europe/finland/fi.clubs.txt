@@ -24,13 +24,15 @@ Finnairin Palloilijat Helsinki (1965-1998), Helsinki
   | Finnairin Palloilijat
 
 FC Jokerit (1999-2004),   Helsinki
+  | Jokerit
 
 IF Gnistan,   Helsinki (Oulunkylä)
+  | Gnistan
 
 KäPa, Helsinki (Käpylä)
   | Käpylän Pallo
 
-    
+
 
 FC Haka Valkeakoski,    Valkeakoski
   | Haka Valkeakoski | Valkeakosken Haka
@@ -68,12 +70,12 @@ FC Lahti,         Lahti
 FC Kuusysi,       Lahti   # champs (5): 1992/93 1990/91 1987/88 1985/86 1983/84
   | Kuusysi Lahti
 FC Reipas Lahti,  Lahti   # champs (3): 1971/72 1968/69 1964/65
-  | FC Reipas | Reipas Lahti
+  | Reipas | FC Reipas | Reipas Lahti
 
 
 JJK Jyväskylä,     Jyväskylä
-  | JJK | JJK Jyvaskyla
-  | Jyvaskyla JK
+  | JJK
+  | Jyväskylä JK
 
 Tampere United,      Tampere
 
@@ -81,6 +83,7 @@ FC Ilves,            Tampere
   | Ilves | Ilves Tampere
   | FC Ilves Tampere
   | Tampereen Ilves
+  | Tampereen Ilve
 # They were formed in 1975 as a merger between
 #  Ilves-Kissat Tampere and TaPa Tampere
 
@@ -99,7 +102,7 @@ KPV Kokkola,        Kokkola
   | KPV | Kokkolan Palloveikot
 Rovaniemen Palloseura,  Rovaniemi
   | RoPS | Rovaniemi | RoPS Rovaniemi | Rovaniemi PS
-  
+
 SJK Seinäjoki,      Seinäjoki
   | Seinäjoki
   | SJK | Seinäjoen Jalkapallokerho
@@ -132,6 +135,7 @@ PK-35 Vantaa, Vantaa
 Palloseura Kemi Kings,  Kemi
   | PS Kemi | Kemi City FC | Kemi City Football Club
 Ekenäs IF,  Raseborg
+  | EIF
 PEPO Lappeenranta,  Lappeenranta
   | PEPO
 JIPPO Joensuu, Joensuu
@@ -139,9 +143,10 @@ JIPPO Joensuu, Joensuu
 
 
 FC Jazz, Pori      # champs (1): 1997/98
-  | FC Jazz Pori
+  | Jazz | FC Jazz Pori
 
 AC Oulu, 2002, Oulu
+  | Oulu
 # AC Oulu was founded in 2002 as a joint initiative of the
 #  OLS, OPS, OTP and Tervarit clubs.
 
@@ -161,10 +166,13 @@ Järvenpään Palloseura, 1947, Järvenpää
 
 Salon Palloilijat,    Salo
   | SalPa
-   
+
 
 
 AC Vantaan Allianssi (2002-2006),  Vantaa
   | AC Allianssi
+  | Allianssi
+
+
 
 

@@ -13,7 +13,7 @@ Beitar Tel Aviv Bat Yam FC,  Tel Aviv       ## and Bat Yam
 
 Maccabi Jaffa, Tel Aviv
 
-Maccabi Kabilio Jaffa,  Tel Aviv 
+Maccabi Kabilio Jaffa,  Tel Aviv
 
 
 
@@ -39,7 +39,7 @@ Hapoel Jerusalem,  Jerusalem
   | Hapoel Katamon Jerusalem FC
   | Hap. Kat. Jerusalem | Hapoel Katamon Jerusalem
   | Hapoel K. Jerusale
-
+  | Hapoel Jerusalem FC
 
 Hapoel Beer-Sheva FC,  1949,   Be'er Sheva
   | H. Beer-Sheva | Hap. Beer-Sheva
@@ -64,15 +64,17 @@ Hapoel Ra'anana AFC, Ra'anana
 
 
 Maccabi Petah Tikva FC, Petah Tikva
-  | Maccabi Petah Tikva
+  | M. Petah Tikva | Maccabi Petah Tikva
   | Macc. Petach Tikva | Mac. Petach Tikva
-  | Maccabi Petach-Tikva FC   
+  | Maccabi Petach-Tikva FC
   | Maccabi Petach-Tikva
-  
+  | M. Petach Tik | M. Petach Tikv
+  | M. Petach Tikva
 
 
 Hapoel Petah Tikva FC,   Petah Tikva
-  | H. Petach Tikva | Hapoel Petah Tikva
+  | H. Petah Tikva | Hapoel Petah Tikva
+  | H. Petach Tikva
   | Hapoel Petach-Tikva FC     ## fix/todo: check dash(-) if fancy?!
   | Hapoel Petach-Tikva
 
@@ -139,18 +141,30 @@ Maccabi Bnei,  Reineh
 
 Maccabi Herzliya, Herzliya
 
-Hapoel Herzliya,  Herzliya  
+Hapoel Herzliya,  Herzliya
 
 
 Ihud Bnei Shefa-'Amr, Shefa-'Amr
   Ihud Shefa-AMR
 
 Ironi Tiberias,   Tiberias
+  | Ironi Tiberias FC
 
 Maccabi Ironi Kiryat Ata,  Kiryat Ata
 
-Maccabi Yavne,  Yavne 
-MS Dimona,  Dimona 
+Maccabi Yavne,  Yavne
+MS Dimona,  Dimona
 MS Kafr Qasim,  Kafr Qasim
-Tzeirei Kafr Kanna,   Kafr Kanna 
+Tzeirei Kafr Kanna,   Kafr Kanna
+
+Hapoel Marmorek,    Rehovot
+  | Hapoel Ironi Marmorek Rehovot FC
+  | Hapoel Marmorek FC
+
+Hapoel Iksal,  Iksal
+  | Hapoel Imad Iksal
+  | Hapoel Iksal Imad
+
+Hapoel Kfar Shalem,    Kfar Shalem   # neighbourhood of Tel Aviv
+  | Hap. Kfar Shalem
 

@@ -16,6 +16,7 @@ Valur Reykjavík,  1911, Reykjavík
 Víkingur Reykjavík, Reykjavík
   | Víkingur R.
   | KF Víkingur | Víkingur
+  | Víkingur Reykj
 
 
 Fjölnir Reykjavík, Reykjavík
@@ -23,14 +24,14 @@ Fjölnir Reykjavík, Reykjavík
 
 Throttur Reykjavik, Reykjavík
  | Þróttur Reykjavík
- | Knattspyrnufélagið Þróttur 
+ | Knattspyrnufélagið Þróttur
 
 
 Leiknir Reykjavík,  1973  Reykjavík (Breiðholt)
  | Leiknir R.
  | Leiknir
  | Íþróttafélagið Leiknir
- 
+
 
 ÍR Reykjavík,  Reykjavík
  | Íþróttafélag Reykjavíkur
@@ -42,18 +43,23 @@ Grótta,   Seltjarnarnes
 
 ÍA Akranes,   Akranes
   | ÍA | Íþróttabandalag Akraness
-FH Hafnarfjörður,  Hafnarfjörður    # note/fix: auto-change Hafnarfjörður => Hafnarfjördur
-  | FH | FH Hafnarfjördur
+
+FH Hafnarfjörður,  Hafnarfjörður    # note - Hafnarfjördur (auto-match via unaccent)
+  | FH
+  | Hafnarfjörður
   | FH Hafnarfjardar
 
-Breiðablik,          Kópavogur        # note/fix: Breidablik - auto-change ð to d
-  | Breidablik
+Breiðablik,          Kópavogur
+  | UMF Breiðablik | Ungmennafélag Breiðablik
+  | Breiðablik Kópavogur
+  # note - Breidablik (auto-match via unaccent -  auto-change ð to d)
+
 ÍBV Vestmannaeyjar,  Vestmannaeyjar
   | ÍBV
   | ÍB Vestmannaeyja  # champs (3): 2000..1998 (2) 1980/81
 
 Stjarnan,  1960,      Garðabær
-  | Stjarnan Garð. | Stjarnan Garðab.  | Stjarnan Gardab.   # note/fix: auto-change ð to d
+  | Stjarnan Garð. | Stjarnan Garðab.
   | UMF Stjarnan
   | Stjarnan Garðabær
   | Stjarnan FC
@@ -67,9 +73,10 @@ HK Kópavogs,   Kópavogur
 KA Akureyri,   Akureyri
   | KA
   | Knattspyrnufélag Akureyrar     # "Akureyri Football Club"
-  
+
 Thór Akureyri,    Akureyri        # note: Þór Akureyri - auto-change Þ to Th - why? why not
   | Þór Akureyri
+  | Thór
 
 Keflavík ÍF,      Reykjanesbær
   | Keflavík
@@ -95,4 +102,10 @@ UMF Njarðvík, 1944, Njarðvík
 
 ÍF Vestri
   | Íþróttafélagið Vestri
+  | Vestri
 
+
+Dalvík/Reynir, 2006,   Dalvík
+  | Knattspyrnufélagið Dalvík/Reynir
+  # formed in 2006 after the merger between
+  #    UMFS Dalvík & Reynir Árskógsströnd

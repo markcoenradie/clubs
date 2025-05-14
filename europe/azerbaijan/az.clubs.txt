@@ -4,12 +4,14 @@
 Bakı FK,   Baku
   | Baku    # champs (2): 2009/10 2006/07
   | FK Baku
+  | Bakı
 
 İnter Bakı PİK,  Baku
   | Inter Baku PIK    # champs (2): 2010/11 2008/09
   | Inter Baku
 
 FK Shafa Baku (1997-2005),  Baku
+  | Shafa | FK Shafa
   | Shafa Baku | Safa Baku
   | FK Şäfa
 
@@ -18,8 +20,11 @@ Neftçi PFK,   Baku
   | Neftchi PFC Baku   # champs (6): 2014...2011 (3) 2006..2004 (2) 1997/98
   | Neftchi Baku
 
-Zirä FK,    Baku
-  | Zira FK
+Zirä FK,    Baku   # based in Zirə, Baku
+  | FK Zirä
+  | Zirä
+  | Zirä Football Club
+  | Zirä Futbol Klubu
   | PFC Zire
 
 
@@ -27,7 +32,12 @@ Zirä FK,    Baku
 FK Şämkir (1954-2017), Şəmkir
   | Shamkir | Shamkir FC     # champs (2): 2002..2000 (2)
   | Shamkir FK
+  | FK Shamkir
 
+
+FK Şamaxı,    Shamakhi
+  | Şamaxı
+  | Şamaxı Futbol Klubu
 
 
 Qarabağ FK
@@ -36,23 +46,28 @@ Qarabağ FK
   | Qarabağ Ağdam FK
 
 Xäzär Länkäran FK
+  | Xäzär Länkäran
   | Khazar Lankaran   # champs (1): 2007/08
 
 Olimpik-Şüvälan PFK
+  | Olimpik-Şüvälan
 
 Simurq PFK (2005-2015),  Zaqatala
   | Simurq PFC
   | Simurq PIK
   | Simurq Zaqatala PFK
+  | Simurq
 
 Gabala SC
   | Gabala
-  | Gabala FK
+  | Gabala FK | FK Gabala
   | Qäbälä
 
 Keşla FK
   | Keşla
   | Keşlə FK   ## todo/fix: auto-create variants ş=>ş (with cedilla? and comma?)
+  | FK Keshla
+
 
 Käpäz PFK, 1959,    Ganja
   | Käpäz   # champs (2): 2000..1998 (2)
@@ -61,12 +76,18 @@ Käpäz PFK, 1959,    Ganja
   | Kapaz Professional Football Club
 
 Sabail
-  | Səbail FK
+  | Səbail FK   ### todo/fix - add  ə to unaccent ???
+  | Sabail FC
+  | Sabail FK
 
 Sumqayıt FK
   | Sumqayıt
-Sabah
+  | Sumgayit FK
 
+
+Sabah FC
+  | Sabah
+  | Sabah FK
 
 # note - Not to be confused with FC Turan
 PFK Turan Tovuz, 1954,  Tovuz
@@ -74,16 +95,24 @@ PFK Turan Tovuz, 1954,  Tovuz
   | Turan-T İK
   | Turan-Tovuz İK
   | Turan İK | Turan İdman Klubu
-  | Turan Tovuz 
+  | Turan Tovuz
+  | Turan Tovuz PFK
+  | Turan
 
 
 FK MKT Araz, 2004,    İmişli
   | MKT Araz
   | FK MKT Araz İmişli
 
+Araz FK Naxçıvan,     Nakchivan
+  | Araz-Naxçıvan PFK
+
+
 Karvan FK (2004-2014),   Yevlakh
   | FK Karvan Evlakh
+  | Karvan
 
 Khazri Buzovna (1994-1998),  Buzovna
-  |  FK Khazri Buzovna
+  | FK Khazri Buzovna
+  | Khazri
 

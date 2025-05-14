@@ -4,12 +4,14 @@
 FC Sheriff Tiraspol, Tiraspol
   | Sheriff | FC Sheriff | Sheriff Tiraspol | FC Tiraspol
   | Tiraspol
+  | FC Sheriff T.
 
 FC Dinamo-Auto Tiraspol, Tiraspol
   | Dinamo-Auto
 
 CS Tiligul-Tiras Tiraspol (1938-2009), Tiraspol
   | FC Tiligul Tiraspol
+  | Tiligul
 
 
 FC Dacia Chișinău,  Chișinău
@@ -18,7 +20,8 @@ FC Dacia Chișinău,  Chișinău
 
 FC Zimbru Chișinău,  Chișinău
   | Zimbru | FC Zimbru
-  | Zimbru Chisinau   # champs (4): 2001...1998 (3) 1993/94
+  | Zimbru Chișinău   # champs (4): 2001...1998 (3) 1993/94
+  | Zimbru Chișin.
 
 FC Veris (2011-2014),  Chișinău
   | Veris
@@ -37,23 +40,36 @@ FC Zaria Balti
   | Zaria | Zaria Balti
 
 FC Nistru Otaci
+  | Nistru
 
-CS Petrocub
-  | Petrocub | Petrocub-Hincesti
 FC Saxan
   | Saxan
   | Saxan Gagauz Yeri
 
 FC Sfintul Gheorghe Suruceni
-  | Sfintul Gheorghe
+  | FC Sfintul Gheorghe | Sfintul Gheorghe
+  | FCSG
+  | FC Sfintul Gh | FC Sfintul Ghe
 
 FC Speranța Nisporeni
   | Speranța Nisporeni
+  | Sp. Nisporeni
 
 FC Codru
 
 
 CS Petrocub Hîncești, 1990, Sărata-Galbenă
+  | CS Petrocub
+  | Petrocub | Petrocub-Hincesti
   | FC Petrocub-Hincesti
+  | FC Petrocub
 
+CF Spartanii Sportul Selemet
+  | Spartanii
+FC Floresti
+  | Floresti
+FC Dacia Buiucani
+  | Dacia Buiucani
+
+CSF Bălți
 

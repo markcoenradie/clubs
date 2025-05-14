@@ -72,8 +72,9 @@ CD Aves, 1930,  Aves
 ##  For the new club known as AVS Futebol SAD,
 ##  founded in 2023, see AVS Futebol SAD !!!
 
-AVS Futebol SAD, 2023,  Vila das Aves    
+AVS Futebol, 2023,  Vila das Aves
   | AVS
+  | AVS Futebol SAD
 
 
 GD Chaves, Chaves
@@ -122,7 +123,7 @@ SC Braga, Braga
 FC Vizela,  1939,  Vizela
   | Futebol Clube de Vizela
   | Vizela
- 
+
 CD Tondela, Tondela
   | Tondela
   | Clube Desportivo de Tondela
@@ -150,7 +151,10 @@ CF Estrela da Amadora, Amadora
   | Est Amadora | Estrela Amadora
   | Estrela da Amadora
   | CF Estrela
+  | Club Football Estrela Amadora
   | Club Football Estrela da Amadora
+  | Club Foot Estrela
+
 
 SC Farense, 1910, Faro
   | Farense
@@ -214,10 +218,17 @@ AC Marinhense,  Marinha Grande
 
 
 CU Fabril Barreiro, 1937, Barreiro
-  | Fabril Barreiro | Fabril do Barreiro
+  | Fabril | Fabril Barreiro | Fabril do Barreiro
   | GD Fabril | Grupo Desportivo Fabril
   | GD CUF Barreiro
   | CUF Barreiro | CUF do Barreiro    # Companhia União Fabril
 
 FC Barreirense,  1911,  Barreiro
   | Futebol Clube Barreirense
+
+Amarante FC,    Amarante
+  | Amarante Futebol Clube
+  | Amarante
+
+FC Vilaverdense,    Vila Verde
+  | Länk FC Vilaverdense

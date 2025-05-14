@@ -13,7 +13,7 @@ College Europa FC
 Europa Point FC
   | Europa Point
 College 1975 FC
-  | College
+  | College | College 1975
 
 Glacis United FC
   | Glacis
@@ -25,6 +25,9 @@ Gibraltar Phoenix FC
 
 FC Magpies
   | Magpies
+  | FCB Magpies
+  | FC Bruno's Magpies
+
 Mons Calpe SC
   | Mons Calpe
 Boca Juniors Gibraltar FC

@@ -3,21 +3,27 @@
 
 FK RFS,  Riga
   | RFS | Rīgas Futb. Skola | FK Rīgas Futbola Skola
+  | Rīgas Futbola Skola
   | JFK Olimps/RFS           ## todo/check where this name is (still/was) used ?
+  | Olimps
+  | FC RFS
+  | Rigas Fb. Sk
 
-Riga FC,         Riga
+
+Rīga FC,         Riga
   | Riga | FC Riga
-  | FK Rīga
-  | Rīga FC
+  | FK Rīga     ### always use Rīga not Riga - why? why not?
 
 
 FS METTA,        Riga
   | METTA | FS METTA/LU | FS METTA/Latvijas Universitāte
   | FK Universitate
+  | Universitate
 
 FK LU/Daugava (1979-2000), Riga
   | FK Latvijas Universitāte/Daugava
   | Torpedo Rīga
+  | Daugava
 
 FC Daugava Rīga (2003-2015),  Riga          # note: historic soviet era club
   | Daugava Rīga
@@ -27,8 +33,8 @@ Skonto FC (1991-2006), Riga
   | Skonto | Skonto Riga
   | FC Skonto Riga
 
- FK Auda Riga, 1969,   Riga (Ķekava)    # Ķekava near the capital, Riga    
-   | FK Auda
+ FK Auda Riga, 1969,   Riga (Ķekava)    # Ķekava near the capital, Riga
+   | Auda | FK Auda
    | Futbola klubs Auda
 
 
@@ -46,8 +52,15 @@ SK Liepājas Metalurgs,      Liepāja
   | FK Liepājas Metalurgs
   | Metalurgs Liepāja
 
-FK Jelgava, Jelgava
+FK Jelgava, 2004, Jelgava
   | Jelgava
+  | Futbola klubs Jelgava
+
+FS Jelgava, 2017, Jelgava
+  | Futbola skola Jelgava
+# previous name Albatroz SC
+
+
 FK Valmiera, Valmiera
   | Valmiera FK
 
@@ -64,13 +77,20 @@ BFC Daugavpils,         Daugavpils
   | Daugavpils
 
 FC Dinaburg
+  | Dinaburg
 
-Grobiņas SC,  2009,  Grobiņa   
-  | Sporta Centrs Grobiņa 
+Grobiņas SC,  2009,  @ Grobiņa Stadium, Grobiņa
+  | Sporta Centrs Grobiņa
+  | Grobiņas SC/LFS
+  | Grobiņas sporta centrs/Liepājas Futbola skola
+  | Grobiņa
+## Grobiņas SC also has an agreement with FK Liepāja
 
 
 FK Tukums 2000, 2000, Tukums
-  | Futbola klubs Tukums 2000
+  | Tukums 2000 | Futbola klubs Tukums 2000
 
-  
-     
+
+Valmiera FC,  1996,  Valmiera
+  | Valmiera
+  | Valmiera Football Club

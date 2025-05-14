@@ -6,16 +6,27 @@
 ## also known as North Holland
 
 Ajax Amsterdam, 1900,    Amsterdam › Noord-Holland
-  | Ajax | AFC Ajax | Amsterdamsche Football Club Ajax
+  | Ajax
+  | AFC Ajax | Amsterdamsche Football Club Ajax
   | Ajax Amsterd.
 ii) Jong Ajax
   | Jong Ajax Amst.
 
-DWS Amsterdam, Amsterdam    # champs (1): 1964/65
-  | AFC DWS | Amsterdamsche Football Club Door Wilskracht Sterk
+DWS Amsterdam, 1907,   Amsterdam    # champs (1): 1964/65
+  | Amsterdamsche Football Club Door Wilskracht Sterk
+  | Door Wilskracht Sterk
+  | AFC DWS
+  | DWS
+# note - Door Wilskracht Sterk - en: Strong Through Willpower
 
-FC Amsterdam,  Amsterdam
-# FC Amsterdam was a Dutch football club which was founded on 20 June 1972,
+Amsterdamsche FC,  1895,   Amsterdam
+  | Amsterdamsche Football Club
+  | AFC
+
+
+FC Amsterdam (1972-1982),  Amsterdam
+  | Amsterdam
+#  founded on 20 June 1972,
 # from the merger of the Amsterdam football clubs Blauw Wit and DWS
 
 
@@ -23,6 +34,7 @@ AZ Alkmaar, 1967,    Alkmaar    › Noord-Holland
   | AZ | Alkmaar Zaanstreek
 ii) AZ Alkmaar II
   | Jong AZ
+  | Jong AZ Alkmaar
 
 SC Telstar,     Velsen
   | Telstar
@@ -31,6 +43,7 @@ SC Telstar,     Velsen
 HFC Haarlem (1889-2010),  Haarlem
   | Haarlemsche Football Club Haarlem
   | Haarlem FC | FC Haarlem
+  | Haarlem
 
 
 FC Volendam, Volendam
@@ -48,8 +61,8 @@ Sparta Rotterdam,        Rotterdam
   | Sparta | Sparta R'dam
   | Sp. Rotterdam
 SBV Excelsior Rotterdam, 1902,   Rotterdam › Zuid-Holland    ## use SBV Excelsior - why? why not?
-  | Excelsior | SBV Excelsior 
-  | Excel. Rotterdam
+  | Excelsior | SBV Excelsior
+  | Excel. Rotterdam | Excelsior Rotterdam
   | Stichting Betaald Voetbal Excelsior
   | Stichting Betaald Voetbal Excelsior Rotterdam
 
@@ -67,21 +80,38 @@ SV SVV,  1904,   Schiedam
   | Sportvereniging Schiedamse Voetbal Verenigingen
 
 
+Excelsior Maassluis, 1918, Maassluis
+  | Excel. Maassluis
+  | VV Excelsior Maassluis
+
+Quick Boys,  1920, Katwijk aan Zee
+  | KVV Quick Boys
+  | Katwijkse Voetbal Vereniging Quick Boys
+
+
+
 == Utrecht ==
 
 FC Utrecht, 1970,   Utrecht
   | Utrecht | Football Club Utrecht
 ii) Jong FC Utrecht
 
+USV Hercules,  1882,    Utrecht
+  | Utrechtse Sportvereniging Hercules
+  | Hercules Utrecht
+  | Hercules
+
 DOS Utrecht, (1901-1970),   Utrecht
   | VV DOS         #  champs (1): 1958/59
   | Voetbalvereniging Door Oefening Sterk
 # In 1970 it merged with USV Elinkwijk and Velox to form FC Utrecht.
 
+
 VV IJsselmeervogels      #  from Bunschoten - Spakenburg
   | IJsselmeervogels
   | Voetbalvereniging IJsselmeervogels
   | VV IJsselmeervogel
+
 
 
 == Friesland ==
@@ -116,7 +146,7 @@ NAC Breda, 1912,  Breda
   | NAC | NOAD ADVENDO Combinatie Breda
 
 PSV Eindhoven, 1913,   Eindhoven
-  | PSV 
+  | PSV
   | Philips Sport Vereniging
   | Philips Sport Vereniging Eindhoven
 ii) Jong PSV
@@ -161,18 +191,21 @@ MVV Maastricht, 1902,  Maastricht
 Rapid JC Heerlen (1954-1962),  Heerlen
   | Rapid JC    # champs (1): 1956/57
   | Rapid Juliana Combinatie
+  | Rapid
 
 
 
 == Overijssel ==
 Go Ahead Eagles, Deventer › Overijssel
   | Go Ahead Eagles Deventer
+  | Go A. Eagles
 
 Heracles Almelo, 1903,  Almelo
   | Heracles | SC Heracles Almelo
 
 FC Twente, 1965,   Enschede
   | Twente | Football Club Twente | Twente Enschede
+  | Twente Ensch.
   | FC Twente Enschede
   | FC Twente '65
 

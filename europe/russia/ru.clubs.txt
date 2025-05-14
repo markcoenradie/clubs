@@ -5,7 +5,7 @@
 Lokomotiv Moskva, 1923,  Moskva       ## Moscow [en]
   | Lokomotiv | FC Lokomotiv | FC Lokomotiv Moskva
   | Loko Moscow [en] | Lokomotiv Moscow [en] | FC Lokomotiv Moscow [en]
-  | Lok Moskau [de]
+  | Lokomotive Moskau [de] | Lok Moskau [de]
   | FK Lokomotiv Moskva
   | Futbolniy Klub Lokomotiv (Moskva)
 
@@ -73,9 +73,10 @@ FC Saturn Ramenskoye, 1946,  Ramenskoye    # Ramenskoe - a town and the administ
 
 
 Zenit St. Petersburg, 1925,     St. Petersburg
-  | Zenit | Zenit Petersb. | Zenit Petersburg | Zenit St. Peter | Zenit St. Petersb. | Zenit Saint Petersburg
+  | Zenit | Zenit Petersb. | Zenit Petersburg | Zenit St. Peter | Zenit St. Petersb.
+  | Zenit Saint Petersburg
   | FC Zenit | FC Zenit St Petersburg | FC Zenit Saint Petersburg
-  | FK Zenit Sankt-Petersburg
+  | FK Zenit Sankt-Petersburg | Zenit Sankt Petersburg
   | Futbolniy Klub Zenit (Sankt-Peterburg)
 
 Dinamo St. Petersburg,     St. Petersburg
@@ -84,12 +85,14 @@ Dinamo St. Petersburg,     St. Petersburg
 PFC Sochi, 2018, Sochi      #  formed in 2018 on the base of FC Dynamo Saint Petersburg
   | Sochi | Professional Football Club Sochi
   | Professionalniy Futbolniy Klub Sochi
+  | FC Sochi
   | FK Sochi [de]
 
 
 FC Rubin Kazan, 1958,  Kazan     ##  Tatarstan (Republic of) > Volga (Federal District)
   | Rubin | FC Rubin | Rubin Kazan
   | Futbolniy Klub Rubin (Kazan)
+  | Rubin Kasan [de]
 
 FC Amkar Perm, 1994,   Perm      ##  Perm Krai  > Volga (Federal District)
   | Amkar | Amkar Perm
@@ -97,7 +100,11 @@ FC Amkar Perm, 1994,   Perm      ##  Perm Krai  > Volga (Federal District)
 
 FC Anzhi Makhachkala, 1991,  Makhachkala      ## Dagestan (Republic of) >  North Caucasian (Federal District)
   | Anzhi | Anzhi Makhachkala | FK Anzi Makhackala
-  | Anji | FC Anji Makhachkala
+  | Anji | FC Anji | FC Anji Makhachkala
+
+FK Dynamo Makhachkala,  1927, Makhachkala
+  | Dynamo Makhachkala
+
 
 FC Sibir Novosibirsk,  Novosibirsk
   | Sibir | Sibir' | FC Sibir
@@ -119,10 +126,11 @@ Arsenal Tula,  Tula
   | Arsenal | FC Arsenal Tula
 
 Chernomorets Novorosisk, 1907, Novorosisk
-  | Chernomorets | FC Chernomorets Novorossiysk
+  | Chernomorets
+  | FC Chernomorets Novorossiysk
+  | FC Chernomorets Novorossiisk
   | FC Chernomorets Krasnodarskiy Kray    # Novorossiysk is a city in Krasnodar Krai
   | Chernomorets Novorossisk
-
 
 FC Khimki,  Khimki
   | Khimki
@@ -157,12 +165,13 @@ Spartak Nalchik,   Nalchik
   | Nalchik
 
 Pari Nizhny Novgorod,  Nizhny Novgorod
+  | Pari NN
   | Futbolniy Klub Pari Nizhny Novgorod
   | FC Pari Nizhny Novgorod
   | Nizhnii Novgorod
   | Nizhny Novgorod | FC Nizhny Novgorod
   | FK Nizhny Novgorod
-# that was called FC Nizhny Novgorod from 2018 to 2022. 
+# that was called FC Nizhny Novgorod from 2018 to 2022.
 ## The club has been known under different names:
 ##   2015–2016: FC Volga-Olimpiyets Nizhny Novgorod
 ##   2016–2018: FC Olimpiyets Nizhny Novgorod
@@ -178,7 +187,7 @@ Volga Nizhnii Novgorod, Nizhny Novgorod
 FC Rostov,     Rostov-on-Don
   | Rostov | Rostov Rostov-on-Don | FK Rostov
   | Futbolniy Klub Rostov (Rostov-na-Donu)
-
+  | FK Rostow  [de]
 
 Rotor, Volgograd
   | Rotor Volgograd | FC Rotor Volgograd
@@ -260,7 +269,7 @@ FC Chayka, Peschanokopskoye
   | Chayka Peschanokopskoye | FC Chayka Peschanokopskoye
 
 FC Fakel Voronezh, Voronezh
-  | Fakel Voronezh
+  | Fakel | Fakel Voronezh
   | Futbolniy Klub Fakel Voronezh
   | Fakel Worenesch [de]
 
@@ -274,9 +283,15 @@ FC Tekstilshchik Kamyshin,    1958,    Kamyshin
   | Tekstilshchik Kamyshin
   | Tekstilschik Kamyshin
   | FC Rotor Kamyshin
+  | Kamyshin
 # name history:
 #  1979–1995: FC Tekstilshchik Kamyshin
 #  1996: FC Energiya-Tekstilshchik Kamyshin
 #  1997: FC Energiya Kamyshin
 #  1998: FC Rotor-Kamyshin Kamyshin
 #  1999–present: FC Tekstilshchik Kamyshin
+
+
+FC Akron Tolyatti,  Tolyatti
+ | FK Akron Togliatti
+

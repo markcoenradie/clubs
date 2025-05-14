@@ -3,8 +3,10 @@
 
 FC Levadia Tallinn
   | Levadia | Levadia Tallinn
+  | Levadia Tall.
   | FC Levadia Maardu
   | FCI Levadia | FCI Levadia Tallinn
+  | FCI
 # Founded as Levadia in Maardu in 1998,
 # the club moved to Tallinn in 2004
 
@@ -18,20 +20,26 @@ FC TVMK Tallinn
 
 
 FCI Tallinn
+
 JK Tallinna Kalev
   | Tallinna Kalev
   | Talinna Kalev
+  | Kalev
+  | JK Tallinna Ka
 
 
 FC Nõmme United,   Tallinn (Nõmme)
+  | Nõmme United
   | Jalgpalliklubi FC Nõmme United
-  
+
 
 FC Norma Tallinn (1959-1997), Tallinn    # champs (2): 1994..1992 (2)
   | Norma Tallinn
+  | Norma
 
 FC Lantana Tallinn (1994-1999),  Tallinn
   | FC Lantana | Lantana Tallinn
+  | Lantana
 
 
 JK Trans Narva
@@ -45,15 +53,18 @@ JK Nõmme Kalju
 
 JK Sillamäe Kalev
   | Sillamäe Kalev | Kalev Sillamäe
+  | Sillamäe
 
 FC Santos Tartu
   | Santos Tartu
 JK Tammeka Tartu
   | Tammeka | Tammeka Tartu
+  | Tartu JK Tammeka
 
 Paide Linnameeskond,   Paide
   | Paide
   | Paide Linnameesk.
+  | Paide Linnam.
 
 
 JK Tulevik Viljandi,   Viljandi
@@ -69,4 +80,5 @@ Maardu Esteve
 
 Pärnu JK Vaprus,  Pärnu
   | Pärnu Vaprus |  Vaprus
+  | JK Vaprus Pärnu
 

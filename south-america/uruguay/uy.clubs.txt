@@ -6,7 +6,7 @@ Liverpool Montevideo,          Montevideo
   | Liverpool Montevid | Liverpool FC Montevideo
   | Liverpool Mont.
   | Liverpool Montev.
-  
+
 Nacional de Montevideo, 1899,  Montevideo
   | Nacional | Nacional de Footb. | Club Nacional | Club Nacional de Football | C. N. de F.
 Defensor Sporting,             Montevideo
@@ -20,12 +20,17 @@ Danubio FC, 1932,              Montevideo
   | Danubio | Danubio Fútbol Club
 El Tanque Sisley, 1941,        Montevideo
   | Deportivo El Tanque Sisley
+
 Centro Atlético Fénix, 1916,   Montevideo
   | Fénix | CA Fénix
+  | Fénix Montevideo
+  | Atletico Fénix Mon
+
+
 CS Miramar Misiones, 1906,     Montevideo
   | Miramar Misiones | Club Sportivo Miramar Misiones
 Montevideo Wanderers, 1902,    Montevideo
-  | Wanderers  | Montevideo Wanderers FC 
+  | Wanderers  | Montevideo Wanderers FC
   | Montevideo Wanderers Fútbol Club
   | Montev. Wanderers
   | Montev. Wand.
@@ -43,10 +48,15 @@ CA Progreso,                   Montevideo
   | Progreso
 Rampla Juniors,                Montevideo
   | Rampla Juniors FC
-Montevideo City,               Montevideo 
+Montevideo City,               Montevideo
   | Montevideo City Torque
   | Torque
 # Founded in 2007 as Club Atlético Torque
+
+La Luz FC,  1929,  Montevideo (Aires Puros)
+  | La Luz
+  | La Luz Fútbol Club
+
 
 
 Juventud de Las Piedras, 1935,    Las Piedras
@@ -58,7 +68,7 @@ Sud América, 1914,                San José
 Club Plaza Colonia de Deportes,   Colonia
   | Plaza Colonia | Plaza Colonia CD
 
-CD Maldonado,               Maldonado 
-  | Deportivo Maldonado
+CD Maldonado,               Maldonado
   | Club Deportivo Maldonado
-
+  | Deportivo Maldonado
+  | D. Maldonado

@@ -6,8 +6,9 @@ FK Metalurg Skopje,  Skopje
 
 FK Makedonija Skopje, 1932,  Skopje (Gjorče Petrov)
   | Makedonija | FK Makedonija GP Skopje
-  | Makedonija GP
+  | Makedonija GP | Makedonija GjP
   | FK Makedonija Gjorče Petrov
+  | Gjorče Petrov
 
 FK Vardar,  Skopje
   | Vardar
@@ -15,10 +16,12 @@ FK Vardar,  Skopje
 
 FK Cementarnica 55, 1995, Skopje
   | Cementarnica Skopje
+  | Cementarnica
 
 
 Sloga Jugomagnat Skopje (1927-2009), Skopje    # champs (3): 2002...1999 (3)
   | FK Sloga Jugomagnat
+  | Sloga
 
 FK Rabotnički,  Skopje
   | Rabotnički
@@ -41,29 +44,66 @@ FK Shkëndija 79
   | Shkëndija
   | KF Shkëndija | KF Shkëndija 79
   | Shkëndija Tetovo
+  | Shk. Tetovo
 
 FK Teteks
+  | Teteks
 FK Milano
+  | Milano
 FK Pelister
-  | Pelister Bitola
+  | Pelister | Pelister Bitola
+
+
+FK Belasica, 1922,   Strumica
+  | FK Belasica GC
+  | Belasica
+
+Brera Strumica, 2010,    Strumica
+  | FK AP Brera Strumica
+  | Fudbalski Klub Akademija Pandev Brera Strumica
+  | Akademija Pandev
+  | Ak. Pandev
 
 
 FK Sileks, 1965,   Kratovo
   | Sileks
   | Sileks Kratovo
+  | FK Sileks Krat | FK Sileks Kra
 
 FK Turnovo
+  | Turnovo
 
-Akademija Pandev
-FC Struga
+FC Struga,  Struga
+  | Struga
+  | Struga Trim
+
 FK Borec Veles
 
 FK Pobeda,   Prilep
   | FK Pobeda Prilep
+  | Pobeda
 
 FK Bashkimi Kumanovo (1947-2008),   Kumanovo
-  | FK Baskimi
+  | Baskimi | FK Baskimi
 
-FK Belasica, 1922,   Strumica
-  | FK Belasica GC
+
+GFK Tikvesh 1930,  1930,  Kavadarci
+  | Tikvesh | FK Tikvesh
+  | GFK Tikvesh
+  | FK Tikvesh Kavadarci
+  | Tikves | GFK Tikves
+  | GFK Tikvesh 19
+
+
+KF Gostivari,     Gostivar
+  | Gostivari
+
+KF Besa Dobërdoll,   Dobri Dol   # Gostivar
+  | KF Besa 1976 Dobërdoll
+  | Besa
+
+Voska Sport,  2019,  Ohrid
+  | FK Voska Sport Ohrid
+  | FK Voska Sport
+  | Fudbalski Klub Voska Sport
 

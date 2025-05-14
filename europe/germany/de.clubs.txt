@@ -5,14 +5,15 @@
 == Bayern ==
 
 Bayern München, 1900,    @ Allianz Arena,   München
-  | Bayern | Bayern Mün. | FC Bayern München
-  | Fußball Club Bayern München
+  | Bayern | Bayern Mün.
+  | FC Bayern | FC Bayern München | Fußball Club Bayern München
   | Bayern Munich [en] | FC Bayern Munich [en]
  Säbener Straße 51-57 // 81547 München
 ii) Bayern München II
   | Bayern II |  Bayern München Am.
-  | FC Bayern II
+  | FC Bayern II | FC Bayern München II
   | B. München II
+
 
 TSV 1860 München, 1860, München
   | 1860 München | TSV München 1860
@@ -31,13 +32,16 @@ ii) 1. FC Nürnberg II
   | Nürnberg II
 
 SpVgg Greuther Fürth, 1903, Fürth
-  | Gr. Fürth | Greu. Fürth | Greuther Fürth 
+  | Gr. Fürth | Greu. Fürth | Greuther Fürth
   | SpVgg Gr. Fürth
   | SpVgg Greuther Fürth 1903
   | Spielvereinigung Greuther Fürth
  Laubenweg 60 // 90765 Fürth
 ii) SpVgg Greuther Fürth II
   | Gr. Fürth II | Greuther Fürth II
+  | SpVgg Gr. Fürth II
+  | Fürth II
+
 
 FC Augsburg, 1907,   @ WWK Arena,  Augsburg
   | Augsburg
@@ -45,6 +49,10 @@ FC Augsburg, 1907,   @ WWK Arena,  Augsburg
  Donauwörther Str. 170 // 86154 Augsburg
 ii) FC Augsburg II
   | Augsburg II
+
+TSV Schwaben Augsburg, Augsburg
+  | Schw. Augsburg | Schwaben Augsburg
+
 
 SpVgg Unterhaching,  Unterhaching
   | U'haching | Unterhaching
@@ -60,11 +68,14 @@ SSV Jahn Regensburg,   Regensburg
   | Sport-und Schwimmverein Jahn 2000 Regensburg
 1. FC Schweinfurt 05,  Schweinfurt
   | Schweinfurt | Schweinfurt 05
+
 Würzburger Kickers, 1907,     Würzburg
   | Würzburger K. | W'burg Kickers
   | Kick. Würzburg | Kickers Würzburg
   | FC Würzburger Kickers
   | Fußball-Club Würzburger Kickers
+  | Würzburg
+
 Wacker Burghausen,  Burghausen
   | Burghausen
 Viktoria Aschaffenburg,  Aschaffenburg
@@ -76,6 +87,7 @@ FV Illertissen
 SpVgg Bayreuth,  Bayreuth
   | Bayreuth
 TSV Aubstadt
+  | Aubstadt
 TSV Buchbach
   | Buchbach
 VfB Eichstätt
@@ -89,6 +101,31 @@ FC Memmingen
 VfR Garching
 TSV 1896 Rain
   | TSV Rain | TSV Rain/Lech | TSV Rain am Lech
+
+DJK Vilzing
+  | Vilzing | Deutsche Jugendkraft Vilzing
+
+
+SpVgg Ansbach
+  | Ansbach
+  | SpVgg Ansbach 09
+  | Spielvereinigung Ansbach 09
+
+SpVgg Hankofen-Hailing
+  | Spielvereinigung Hankofen-Hailing 1968
+  | SpVgg Hankofen-H.
+  | Hankofen
+
+FC Eintracht Bamberg, Bamberg
+  | Eintracht Bamberg
+  | Bamberg
+  | FC Eintracht Bamberg 2010
+## formed on 1 April 2006 out of the union of
+##  1. FC Bamberg and TSV Eintracht Bamberg
+
+FC Pipinsried
+SC Eltersdorf
+
 
 
 == Nordrhein-Westfalen ==
@@ -152,7 +189,7 @@ SG Wattenscheid 09,    Bochum (Wattenscheid)    ## Bochum-Wattenscheid - Bochume
   | Wattenscheid | Wattenscheid 09
 
 Arminia Bielefeld,  1905,    Bielefeld
-  | Bielefeld 
+  | Bielefeld
   | DSC Arminia Bielefeld
   | Deutscher Sport-Club Arminia Bielefeld
   | Arminia | Arm. Bielefeld
@@ -180,11 +217,12 @@ SC Paderborn 07,  1907,      Paderborn
 Rot Weiss Ahlen,    Ahlen
   | Ahlen
 Rot-Weiß Oberhausen,   Oberhausen
-  | Oberhausen | Rot-Weiss Oberhausen
+  | Oberhausen        ## note - Rot-Weiss Oberhausen (auto-match via unaccent)
 SF Siegen,            Siegen
   | Siegen | Sportfreunde Siegen
 Wuppertaler SV,         Wuppertal
   | Wuppertaler
+  | Wuppertal
 Rot-Weiss Essen,     Essen
   | Essen | RW Essen | SC Rot-Weiss Essen
 ##  - 2 (1): 1993-94
@@ -221,6 +259,17 @@ Bonner SC,  1965,  Bonn
 #    1901 gegründeten Bonner FV und der
 #    1904 gebildeten Mannschaft Tura Bonn.
 
+1. FC Kaan-Marienborn, 2007, Siegen
+  | 1. FC Kaan-Marienborn 07
+# founded 2007, taking over the football Department
+#  of TuS 1886 Kaan-Marienborn, which had existed since 1886.
+
+SV Straelen,  Straelen
+  | SV 19 Straelen
+  | Sportverein 19 Straelen
+
+FC Gütersloh,  Gütersloh
+
 
 == Saarland ==
 
@@ -231,9 +280,10 @@ FC 08 Homburg,       Homburg
 VfB Borussia Neunkirchen,  Neunkirchen
   | Borussia Neunkirchen
 
-SV Elversberg  
-  | Elversberg 07 | SV 07 Elversberg
+SV Elversberg
+  | Elversberg | Elversberg 07 | SV 07 Elversberg
   | Sportvereinigung 07 Elversberg
+  | SpVgg 07 Elversberg
 
 
 == Niedersachsen ==
@@ -250,6 +300,8 @@ Hannover 96, 1896,       Hannover
   | Hannover | Hannover 1896
   | Hannoverscher Sportverein von 1896
  Robert-Enke-Straße 1 // 30169 Hannover
+ii) Hannover 96 II
+  | Hannover 96 Amat.
 
 Eintracht Braunschweig, 1895,  Braunschweig
   | Braunschweig | E. Braunschweig | Eintr. Braunschweig
@@ -264,6 +316,8 @@ SV Meppen,              Meppen
   | Meppen
 VfB Oldenburg,         Oldenburg
   | Oldenburg
+VfL Oldenburg,      Oldenburg
+
 
 SV Wilhelmshaven
 BSV Schwarz-Weiß Rehden,   1954,   Rehden
@@ -297,6 +351,27 @@ MTV Eintracht Celle,  1847,  Celle
 # Der Verein entstand im Jahr 2005 aus dem Zusammenschluss
 #  des MTV Celle von 1847 und des SV Eintracht Celle von 1910.
 
+VfV Hildesheim,     Hildesheim
+  VfV 06 Hildesheim
+  VfV Borussia 06 Hildesheim
+  VfV Borussia 06
+  VfV 06
+## VfV 06 Hildesheim was formed on 1 July 2003 in a merger
+##  of the football department of VfV Hildesheim
+##  and Borussia 06 Hildesheim.
+
+BW Lohne,   Lohne
+  | Blau-Weiß Lohne
+  | TuS Blau-Weiß Lohne
+
+BSV SW Rehden, Rehden
+  | BSV Schwarz-Weiß Rehden
+  | BSV Rehden
+  | Ballsportverein Schwarz-Weiß Rehden
+
+TuS Bersenbrück,  Bersenbrück
+
+
 
 == Brandenburg ==
 
@@ -326,6 +401,7 @@ FFC Victoria 91,   Frankfurt an der Oder
 FC Stahl Brandenburg,    Brandenburg an der Havel
   | Stahl Brandenburg
   | BSV Brandenburg | BSV Stahl Brandenburg
+  | Brandenburg
 
 Union Fürstenwalde,       Fürstenwalde/Spree
   | U. Fürstenwalde | FSV Union Fürstenwalde
@@ -341,7 +417,7 @@ Hertha BSC, 1892,            	Berlin
  Hanns-Braun-Straße / Friesenhaus 2 // 14053 Berlin
 
 1. FC Union Berlin, 1966,   @ Stadion An der Alten Försterei, Berlin
-  | Union B. | Un. Berlin | Union Berlin | FC Union Berlin
+  | Union | Union B. | Un. Berlin | Union Berlin | FC Union Berlin
   | 1. FC Union
   | 1. Fußball-Club Union Berlin
  An der Wuhlheide 263 // 12555 Berlin
@@ -349,7 +425,7 @@ Hertha BSC, 1892,            	Berlin
 Tennis Borussia Berlin, Berlin
   | TB Berlin | TeBe Berlin
 Blau-Weiß 90 Berlin (-1992), Berlin
-  | Blau-Weiss 90 Berlin
+  ## note - Blau-Weiss 90 Berlin  (auto-match via unaccent)
 SC Tasmania 1900 Berlin (-1973), Berlin
   | Tasmania Berlin | Tasmania 1900 Berlin
   | SV Tasmania Berlin
@@ -357,16 +433,26 @@ SC Tasmania 1900 Berlin (-1973), Berlin
 BFC Dynamo Berlin,     Berlin
   | BFC Dynamo
   | Berliner FC Dynamo
+  | Berlin
 
 Berliner AK 07,              Berlin
 FC Viktoria 1889 Berlin,     Berlin
   | Viktoria Berlin
 
 
-ASK Vorwärts Berlin     # champs (6): 1969/70 1967..1965 (2) 1963..1961 (2) 1959/60
-  | Vorwärts Berlin
-# 1969 wurde der Klub nach Frankfurt (Oder) verlegt
+ASK Vorwärts Berlin      # champs (6): 1969/70 1967..1965 (2) 1963..1961 (2) 1959/60
+  | Vorwärts | Vorwärts Berlin
+  | Armeesportklub Vorwärts Berlin
+  | FK Vorwärts Berlin
+# 1969 (or 1971?)  wurde der Klub nach Frankfurt (Oder) verlegt
 #  und als ASK Vorwärts Frankfurt neu organisiert
+# Nach dem Gewinn der Meisterschaft 1965 wurde der
+#   FC Vorwärts Berlin aus dem ASK ausgegliedert.
+# Der umgezogene FC Vorwärts Berlin spielte in der Oderstadt fortan
+#   unter der Bezeichnung FC Vorwärts Frankfurt.
+#
+#  ASK Vorwärts Frankfurt sames as FC Vorwärts Frankfurt ??
+
 
 BFC Preussen, 1894
   | Berliner Fussballclub Preussen 1894
@@ -398,7 +484,7 @@ USC Paloma Hamburg, 1909
 HSV Barmbek-Uhlenhorst
 
 FC Teutonia 05,  Hamburg
-  | FC Teutonia Ottensen 
+  | FC Teutonia Ottensen
   | FC Teutonia Altona-Ottensen
 
 
@@ -430,6 +516,7 @@ VfB Stuttgart, 1893,    @ Mercedes-Benz Arena,   Stuttgart
  Mercedesstraße 109 // 70372 Stuttgart
 ii) VfB Stuttgart II
   | Stuttgart II
+  | VfB Stuttgart Am.
 
 Stuttgarter Kickers,   Stuttgart
   | Stutt. Kick. | Stuttgarter K
@@ -440,7 +527,7 @@ SC Freiburg, 1904,     @ Europa-Park Stadion,   Freiburg
   | Sport-Club Freiburg
  Schwarzwaldstr. 193 // 79117 Freiburg
 ii) SC Freiburg II
-
+  | Freiburg II
 
 TSG 1899 Hoffenheim,  1899,  @ Rhein-Neckar-Arena,   Sinsheim   ## Sinsheim-Hoffenheim
   | Hoffenheim | 1899 Hoffenh. | 1899 Hoffenheim | TSG Hoffenheim
@@ -453,8 +540,11 @@ Karlsruher SC,  1894,        Karlsruhe
   | Karlsruher Sport-Club 1894 Mühlburg-Phönix
  Adenauerring 17 // 76131 Karlsruhe
 
-SSV Ulm 1846,         Ulm
-  | Ulm
+SSV Ulm 1846,     @ Donaustadion,  Ulm
+  | Ulm | SSV Ulm
+  | SSV Ulm 1846 Fußball
+
+
 VfR Aalen, 1921,          Aalen
   | Aalen
  Stadionweg 5/1 // 73430 Aalen
@@ -504,6 +594,12 @@ SV Linx
 FV Ravensburg,  1893,  Ravensburg
   | FV 1893 Ravensburg
 
+SV Oberachern, Achern
+
+TSG Balingen,  Balingen
+  | Balingen
+  | TSG Balingen Fußball
+
 
 == Hessen ==
 
@@ -523,17 +619,18 @@ SV Darmstadt 98, 1898,   @ Merck-Stadion am Böllenfalltor,  Darmstadt
   | Sportverein Darmstadt 1898
 SV Wehen Wiesbaden,     Wiesbaden
   | Wehen | Wiesbaden | W. Wiesbaden | Weh. Wiesbaden | Wehen Wiesbaden
-  | SV Wehen Wiesb.
+  | SV Wehen Wiesb. | Wehen Wiesb.
   | Sportverein Wehen Wiesbaden 26
+
 Kickers Offenbach,     Offenbach am Main
   | Offenbach
-KSV Hessen Kassel
+KSV Hessen Kassel,   Kassel
   | Hessen Kassel
 
 KSV Baunatal,    Baunatal
   | Kultur- und Sportverein Baunatal
 
-TSV Steinbach Haiger
+TSV Steinbach Haiger    # based in Steinbach, near Haiger
   | TSV Steinbach | TSV Steinb. Haiger
   | Turn- und Sportverein Steinbach 1921
 
@@ -563,15 +660,20 @@ TuS Koblenz,         Koblenz
   | Turn- und Spielvereinigung Koblenz 1911
 
 Rot-Weiß Koblenz,    Koblenz
+  | FC Rot-Weiß Koblenz
 
-
-TSG Pfeddersheim
 
 SV Roßbach/Verscheid, 1968,  Roßbach
   | SV Roßbach
 # bis 2007 SV Roßbach/Wied
 
-Wormatia Worms
+Wormatia Worms,    Worms
+ | VfR Wormatia Worms
+ | VfR Wormatia 08 Worms
+
+TSG Pfeddersheim   #  Pfeddersheim suburb of Worms
+
+
 SV Alemannia Waldalgesheim
 FSV Salmrohr
 FK Pirmasens
@@ -580,7 +682,7 @@ FK Pirmasens
 SC Hauenstein, 1919,  Hauenstein
   | Sport-Club Hauenstein
 
-SV Morlautern
+SV Morlautern     # Morlautern suburb of the city of Kaiserslautern
 
 FV Engers 07,  1907,   Neuwied (Engers)   # Neuwied-Engers
   | FV Engers | Fußballverein Engers 07
@@ -598,7 +700,7 @@ Holstein Kiel,       Kiel
   | Holst. Kiel | Kiel
   | Kieler Sportvereinigung Holstein von 1900
 
-VfR Neumünster
+VfR Neumünster, Neumünster
 
 SC Weiche Flensburg 08,     Flensburg (Weiche)
   | Weiche Flensburg 08
@@ -610,7 +712,7 @@ Eintracht Norderstedt, 2003,  Norderstedt
   | E. Norderstedt | Eintr. Norderstedt
 # 2003 als Nachfolgeverein der Fußballabteilung des 1. SC Norderstedt gegründet
 
-SV Eichede
+SV Eichede    #  from the Eichede suburb of Steinburg
 
 
 SV Todesfelde, 1928,   Todesfelde
@@ -621,9 +723,13 @@ SV Todesfelde, 1928,   Todesfelde
 == Mecklenburg-Vorpommern ==
 
 Hansa Rostock, 1965,        Rostock
-  | Rostock 
+  | Rostock
   | FC Hansa Rostock
   | Fußballclub Hansa Rostock
+  | Hansa
+
+Rostocker FC,  Rostock
+
 
 TSG Neustrelitz
 FC Schönberg 95
@@ -636,11 +742,15 @@ FC Mecklenburg Schwerin,  Schwerin
 # 2013 durch Fusion des Fördervereins FCM Schwerin und
 #  dem FC Eintracht Schwerin entstand
 
+Greifswalder FC,  Greifswald
+  | Greifswald
+
+
 
 == Sachsen ==
 
 Dynamo Dresden, 1953,      Dresden
-  | Dresden 
+  | Dresden
   | Dyn. Dresden | Dynamo Dres.
   | SG Dynamo Dresden
   | Sportgemeinschaft Dynamo Dresden
@@ -663,6 +773,7 @@ BSG Chemie Leipzig, Leipzig     # champs (1): 1964/65
   | Betriebssportgemeinschaft Chemie Leipzig
 
 FC Sachsen Leipzig (1990-2011),  Leipzig      # keep a separate club - why? why not?
+  | Sachsen
 # FC Sachsen Leipzig entstand 1990 aus der Fusion der Vereine
 # BSG Chemie Leipzig und BSG Chemie Böhlen
 
@@ -709,15 +820,20 @@ VfB Germania Halberstadt,   Halberstadt
   | Germania Halberstadt
   | Verein für Breitensport Germania Halberstadt
 
+FC Einheit Wernigerode, Wernigerode
+  | Wernigerode | Einheit Wernigerode
+  | FC Einheit
+
 
 == Thüringen ==
 
 FC Carl Zeiss Jena,  Jena
   | CZ Jena | Carl Zeiss Jena | FC CZ Jena
   | SC Motor Jena    # champs (1): 1963/64
+  | Jena
 #  Renamed SC Motor Jena in 1954
 
-SV Schott Jena
+SV Schott Jena, Jena
 
 
 FC Rot-Weiß Erfurt,  Erfurt
@@ -725,11 +841,4 @@ FC Rot-Weiß Erfurt,  Erfurt
 
 Wacker Nordhausen,  Nordhausen
   | FSV Wacker 90 Nordhausen
-
-
-
-== ?? ==
-
-N. N.    ### add dummy "placeholder" club / team
-         ##  Nomen nominandum, see https://de.wikipedia.org/wiki/N._N.
 
