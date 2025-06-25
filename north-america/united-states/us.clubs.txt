@@ -234,6 +234,7 @@ Orange County SC,       Irvine
 Orange County FC,       Lake Forest       # note: NOT to be confused with Orange County SC
 
 Sacramento Republic FC, Sacramento
+San Diego FC,     San Diego
 San Diego Loyal SC,     San Diego
 
 Academica SC,   Turlock
