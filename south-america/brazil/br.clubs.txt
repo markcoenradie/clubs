@@ -244,6 +244,8 @@ Santa Cruz,      Recife
 Náutico PE,  Recife
   | Náutico | C Náutico Capibaribe | Clube Náutico Capibaribe
   | Clube Náutico
+Retro FC PE, Camaragibe
+  | Retro | Retro FC
 
 == Bahia ==
 EC Vitória,      Salvador
